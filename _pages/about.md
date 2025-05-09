@@ -23,14 +23,14 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 - **Pysical-layer Security**, e.g., radio frequency fingerprinting.
 - **Wireless Security**, e.g., wireless sensing.
 - **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
-- **Embodied AI Security**
+- **Embodied AI Security**.
 
 🌟🌟 **I will be in London, UK this May to attend INFOCOM 2025, and I look forward to engaging with many of you there. I am scheduled to present my work during Session F-3 in Plaza Suite 10/11 on May 20th from 16:00 to 17:30. I warmly invite you to attend and share your valuable insights and guidance.** 🤗🤗
 
 
 
 # 🔥 News
-- "2025.4": &nbsp;🎉 Our paper on content moderation in embodied AI has been accepted to IJCAI 2025.
+- *2025.4*: &nbsp;🎉 Our paper on content moderation in embodied AI has been accepted to IJCAI 2025.
 - *2024.12*: &nbsp;🎉 Our paper on drone spoofing attack detection, leveraging mobility alignment from UAV positioning and communication systems, has been accepted at INFOCOM2025.
 - *2024.12*: &nbsp;🎉 A paper on a grid-based robust authentication key agreement scheme has been accepted by the TVT journal.
 
