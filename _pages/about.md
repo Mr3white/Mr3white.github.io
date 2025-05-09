@@ -23,17 +23,28 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 - **Pysical-layer Security**, e.g., radio frequency fingerprinting.
 - **Wireless Security**, e.g., wireless sensing.
 - **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
+- **Embodied AI Security**
 
 🌟🌟 **I will be in London, UK this May to attend INFOCOM 2025, and I look forward to engaging with many of you there. I am scheduled to present my work during Session F-3 in Plaza Suite 10/11 on May 20th from 16:00 to 17:30. I warmly invite you to attend and share your valuable insights and guidance.** 🤗🤗
 
 
 
 # 🔥 News
+- "2025.4": &nbsp;🎉 Our paper on content moderation in embodied AI has been accepted to IJCAI 2025.
 - *2024.12*: &nbsp;🎉 Our paper on drone spoofing attack detection, leveraging mobility alignment from UAV positioning and communication systems, has been accepted at INFOCOM2025.
 - *2024.12*: &nbsp;🎉 A paper on a grid-based robust authentication key agreement scheme has been accepted by the TVT journal.
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/Pinpoint_Framework.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Advancing Embodied Agent Security: From Safety Benchmarks to Input Moderation**.<br>
+Ning Wang, Zihan Yan, [**Weiyang Li**](), Chuan Ma\*, He Chen, Tao Xiang.<br>
+[**IJCAI 2025**](https://2025.ijcai.org/). *International Joint Conferences on Artificial Intelligence*. **CCF-A**.<br>
+
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2025</div><img src='images/DroneMA_Framework.jpg' alt="sym" width="100%"></div></div>
@@ -46,7 +57,6 @@ My research interest focuses on the intersection of **Privacy and Security**, wh
 
 </div>
 </div>
-
 
 **LBRAKA: Lattice-Based Robust Authenticated Key Agreement for VANETs**.<br>
 Gao Liu, [**Weiyang Li**](), Chengsheng Yuan, Ning Wang\*, Chuan Ma, Nankun Mu, Zhiquan Liu, Yining Liu, Tao Xiang.<br>
