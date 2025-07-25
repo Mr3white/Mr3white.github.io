@@ -19,13 +19,11 @@ redirect_from:
 
 I am a first-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of **Prof. Ning Wang**.
 
-My research interest focuses on the intersection of **Privacy and Security**, where I am particularly intrigued by:
+My research interest focuses on the intersection of **Security**, where I am particularly intrigued by:
 - **Pysical-layer Security**, e.g., radio frequency fingerprinting.
 - **Wireless Security**, e.g., wireless sensing.
 - **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
 - **Embodied AI Security**.
-
-🌟🌟 **I will be in London, UK this May to attend INFOCOM 2025, and I look forward to engaging with many of you there. I am scheduled to present my work during Session F-3 in Plaza Suite 10/11 on May 20th from 16:00 to 17:30. I warmly invite you to attend and share your valuable insights and guidance.** 🤗🤗
 
 
 
