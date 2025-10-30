@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of **Prof. Ning Wang**.
+I am a second-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of **Prof. Ning Wang**.
 
 My research interest focuses on the intersection of **Security**, where I am particularly intrigued by:
-- **Pysical-layer Security**, e.g., radio frequency fingerprinting.
-- **Wireless Security**, e.g., wireless sensing.
-- **Intelligent Unmanned System**, e.g., unmanned aerial vehicles (UAVs).
-- **Embodied AI Security**.
+- **Security in Low-Altitude Economy**, e.g., unmanned aerial vehicles (UAVs) security.
+- **Physical-layer Security**, e.g., radio frequency fingerprinting.
+- **Image Forensics**, e.g., PRNU-based fingerprinting.
+- **Embodied AI Security**, e.g., VLA(vision–language–action) security, VLN(vision–language–navigation) security.
 
 
 
