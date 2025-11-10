@@ -28,12 +28,23 @@ My research interest focuses on the intersection of **Security**, where I am par
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 Our paper on **joint trajectory and link quality prediction in Low-Altitude Economy Networks using multi-task time-series large models** has been accepted by *IEEE Transactions on Cognitive Communications and Networking (TCCN)*.
 - *2025.4*: &nbsp;🎉 Our paper on content moderation in embodied AI has been accepted to IJCAI 2025.
 - *2024.12*: &nbsp;🎉 Our paper on drone spoofing attack detection, leveraging mobility alignment from UAV positioning and communication systems, has been accepted at INFOCOM2025.
 - *2024.12*: &nbsp;🎉 A paper on a grid-based robust authentication key agreement scheme has been accepted by the TVT journal.
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ATLAS_Framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Joint Trajectory and Link Quality Prediction in LAENets via Multi-Task Time-Series Large Models**.<br>
+Ning Wang, [**Weiyang Li**](), Zhongchi Yang, Zihan Yan, Jialing He, Deqiang Ouyang\*, Wei Zhu, Tao Xiang.<br>
+[**IEEE Transactions on Cognitive Communications and Networking**](https://www.comsoc.org/publications/journals/ieee-tccn), 2025. **Impact Factor 7, SCI-Q1**.<br>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/Pinpoint_Framework.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
