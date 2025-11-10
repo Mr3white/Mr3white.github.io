@@ -35,7 +35,7 @@ My research interest focuses on the intersection of **Security**, where I am par
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/ATLAS_Framework.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN</div><img src='images/ATLAS_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Joint Trajectory and Link Quality Prediction in LAENets via Multi-Task Time-Series Large Models**.<br>
