@@ -30,8 +30,6 @@ My research interest focuses on the intersection of **Security**, where I am par
 # 🔥 News
 - *2025.11*: &nbsp;🎉 Our paper on **joint trajectory and link quality prediction in Low-Altitude Economy Networks using multi-task time-series large models** has been accepted by *IEEE Transactions on Cognitive Communications and Networking (TCCN)*.
 - *2025.4*: &nbsp;🎉 Our paper on content moderation in embodied AI has been accepted to IJCAI 2025.
-- *2024.12*: &nbsp;🎉 Our paper on drone spoofing attack detection, leveraging mobility alignment from UAV positioning and communication systems, has been accepted at INFOCOM2025.
-- *2024.12*: &nbsp;🎉 A paper on a grid-based robust authentication key agreement scheme has been accepted by the TVT journal.
 
 
 # 📝 Publications 
@@ -77,6 +75,12 @@ Gao Liu, [**Weiyang Li**](), Chengsheng Yuan, Ning Wang\*, Chuan Ma, Nankun Mu, 
 Shuai Liu, Xiaohan Zhao, Guangyan Zhang, [**Weiyang Li**](), Feng Liu, Shichao Liu, Wen Zhang\*.<br>
 [**Genes**](https://www.mdpi.com/journal/genes), 2019. **Impact Factor 2.8, SCI-Q3**.<br>
 \[ [Paper](../assets/PredLnc.pdf) \] \[ [Link](https://www.mdpi.com/2073-4425/10/9/672) \]
+
+# Services
+- Reviewer, ACM Multimedia 2026 (MM).
+- Reviewer, Reliability Engineering & System Safety Journal (RESS).
+- Reviewer, IEEE INFOCOM WKSHPS: DeepWireless 2026: Deep Learning for Wireless Communications, Sensing, and Security.
+- Reviewer, IEEE GLOBECOM 2025: The Fourth Workshop on Machine Learning and Deep Learning for Wireless Security.
 
 # 🎖 Honors and Awards
 - *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
