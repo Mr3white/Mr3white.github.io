@@ -25,10 +25,13 @@ My research interest focuses on the intersection of **Security**, where I am par
 - **Image Forensics**, e.g., PRNU-based fingerprinting.
 - **Embodied AI Security**, e.g., VLA(vision–language–action) security, VLN(vision–language–navigation) security.
 
-🤝 Let’s Connect: I welcome opportunities to collaborate with researchers and students who are passionate about building reliable and trustworthy intelligent systems. I am interested in exchanging ideas, exploring interdisciplinary research problems, and working together on impactful projects. I am also happy to collaborate with self-driven and motivated undergraduate students who are eager to explore research and develop their research skills, especially students at Chongqing University. If you are interested in discussing research, please feel free to contact me at *weiyangli@stu.cqu.edu.cn*.
+🤝 Let’s Connect: I welcome opportunities to collaborate with researchers and students. I am interested in exchanging ideas, exploring interdisciplinary research problems, and working together on impactful projects. I am also happy to collaborate with self-driven and motivated undergraduate students who are eager to explore research and develop their research skills, especially students at Chongqing University. If you are interested in discussing research, please feel free to contact me at *weiyangli@stu.cqu.edu.cn*.
 
+> 
 
 # 🔥 News
+- *2026.9*: 🌍 I will join the University of Liverpool as a visiting research student and work with [**Prof. Junqing Zhang**](https://junqing-zhang.github.io/) on wireless security. I am excited to explore emerging challenges in trustworthy wireless systems and conduct meaningful research at the intersection of wireless communications and security.
+
 - *2026.7*: &nbsp;🎉 Our paper **HF-Printor: High-Frequency Enhanced Camera Fingerprint Extractor for Practical Source Camera Identification** has been accepted by *ACM Multimedia(MM) 2026*. Congrats to Yuan, a talented and highly self-motivated undergraduate research collaborator, on this achievement!
 
 
@@ -37,7 +40,7 @@ My research interest focuses on the intersection of **Security**, where I am par
 \* indicates equal contribution. † indicates the corresponding author.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 Poster</div><img src='images/HFPrintor-Framework.png"' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 Poster</div><img src='images/HFPrintor_Framework.png"' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HF-Printor: High-Frequency Enhanced Camera Fingerprint Extractor for Practical Source Camera Identification**.<br>
@@ -93,10 +96,7 @@ Shuai Liu, Xiaohan Zhao, Guangyan Zhang, [**Weiyang Li**](), Feng Liu, Shichao L
 \[ [Paper](../assets/PredLnc.pdf) \] \[ [Link](https://www.mdpi.com/2073-4425/10/9/672) \]
 
 # Services
-- Reviewer, ACM Multimedia 2026 (MM).
-- Reviewer, Reliability Engineering & System Safety Journal (RESS).
-- Reviewer, IEEE INFOCOM WKSHPS: DeepWireless 2026: Deep Learning for Wireless Communications, Sensing, and Security.
-- Reviewer, IEEE GLOBECOM 2025: The Fourth Workshop on Machine Learning and Deep Learning for Wireless Security.
+- Reviewer for international journals and conferences, including ACM Multimedia (MM) 2026, IEEE Wireless Communications Magazine (WCM), Reliability Engineering & System Safety (RESS), IEEE INFOCOM Workshops (DeepWireless 2026), and IEEE GLOBECOM Workshops (ML/DL for Wireless Security).
 
 # 🎖 Honors and Awards
 - *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
