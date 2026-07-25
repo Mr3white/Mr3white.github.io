@@ -40,7 +40,7 @@ My research interest focuses on the intersection of **Security**, where I am par
 <sup>\*</sup> indicates equal contribution. <sup>†</sup> indicates the corresponding author.
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 Poster</div><img src='images/HFPrintor_Framework.png"' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 Poster</div><img src='images\HFPrintor_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HF-Printor: High-Frequency Enhanced Camera Fingerprint Extractor for Practical Source Camera Identification**.<br>
