@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of **Prof. Ning Wang**.
+I am a third-year PHD student in the College of Computer Science at [**Chongqing University (CQU)**](https://www.cqu.edu.cn), under the guidance of **Prof. Ning Wang**.
 
 My research interest focuses on the intersection of **Security**, where I am particularly intrigued by:
 - **Security in Low-Altitude Economy**, e.g., unmanned aerial vehicles (UAVs) security.
