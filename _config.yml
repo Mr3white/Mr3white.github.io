@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Weiyang Li (李蔚洋)"
-description              : "PhD student at Chongqing University working on UAV security, physical-layer security and image forensics; visiting research student at the University of Liverpool."
+description              : "PhD on Security and Network"
 repository               : "Mr3white/Mr3white.github.io"
 url                      : "https://weiyangli.space"
 
@@ -24,7 +24,7 @@ author:
   name             : "Weiyang Li (李蔚洋)"
   avatar           : "images/profile2.jpg"
   bio              : "PhD Student @ CQU · Visiting @ University of Liverpool"
-  location         : "Liverpool, UK (visiting) / Chongqing, China"
+  location         : "Liverpool, UK"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tJEo8S4AAAAJ"
