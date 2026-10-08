@@ -7,9 +7,9 @@
 
 # Site Settings
 title                    : "Weiyang Li (李蔚洋)"
-description              : "PhD student at CQU, focusing on Security research"
+description              : "PhD student at Chongqing University working on UAV security, physical-layer security and image forensics; visiting research student at the University of Liverpool."
 repository               : "Mr3white/Mr3white.github.io"
-google_scholar_stats_use_cdn : true
+url                      : "https://weiyangli.space"
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Weiyang Li (李蔚洋)"
   avatar           : "images/profile2.jpg"
-  bio              : "Chongqing University (CQU)"
-  location         : "Chongqing, China"
+  bio              : "PhD Student @ CQU · Visiting @ University of Liverpool"
+  location         : "Liverpool, UK (visiting) / Chongqing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=tJEo8S4AAAAJ"
@@ -67,7 +67,6 @@ include:
   - files
 exclude:
   - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
