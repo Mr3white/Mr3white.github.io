@@ -95,17 +95,6 @@ Shuai Liu, Xiaohan Zhao, Guangyan Zhang, **Weiyang Li**, Feng Liu, Shichao Liu, 
 # 💼 Services
 - Reviewer for international journals and conferences, including ACM Multimedia (MM) 2026, IEEE Wireless Communications Magazine (WCM), Reliability Engineering & System Safety (RESS), IEEE INFOCOM Workshops (DeepWireless 2026), and IEEE GLOBECOM Workshops (ML/DL for Wireless Security).
 
-# 🎖 Honors and Awards
-- *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Chongqing Municipal Award for Outstanding Individual in Civic and Cultural Development, First-class Scholarship for Postgraduates.
-
-- *2022-2023*, Top 10 Teaching Assistant (Modern Cryptography course, selected among 10 university-wide), First-class Scholarship for Postgraduates.
-
-- *2021-2022*, Outstanding Student Cadre (selected among 10 university-wide).
-
-- *2019-2020*, Top 10 Class Monitor (selected among 10 university-wide).
-
-
-
 # 🎓 Teaching
 - *2022.09 - 2023.06*, Teaching Assistant, *Modern Cryptography* (undergraduate course), Chongqing University. Selected as one of the university's Top 10 Teaching Assistants.
 
