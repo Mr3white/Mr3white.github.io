@@ -30,6 +30,7 @@ My research interests center on **Security**, where I am particularly intrigued 
 # 📝 Publications 
 <sup>\*</sup> indicates equal contribution. <sup>†</sup> indicates the corresponding author.
 
+### 2026
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026 Poster</div><img src='images/HFPrintor_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,6 +42,8 @@ Paper & code coming soon.
 
 </div>
 </div>
+
+### 2025
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCCN</div><img src='images/ATLAS_Framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,22 +78,25 @@ Ning Wang, Zihan Yan, **Weiyang Li**, Chuan Ma<sup>†</sup>, He Chen, Tao Xiang
 </div>
 </div>
 
+### 2024
+
 **LBRAKA: Lattice-Based Robust Authenticated Key Agreement for VANETs**.<br>
 Gao Liu, **Weiyang Li**, Chengsheng Yuan, Ning Wang<sup>†</sup>, Chuan Ma, Nankun Mu, Zhiquan Liu, Yining Liu, Tao Xiang.<br>
 [**IEEE Transactions on Vehicular Technology**](https://vtsociety.org/publication/ieee-transactions-vehicular-technology), 2024. **Impact Factor 6.1, SCI-Q2**.<br>
 \[ [Paper](../assets/LBRAKA.pdf) \] \[ [Link](https://ieeexplore.ieee.org/abstract/document/10791875) \]
 
+### 2019
 
 **PredLnc-GFStack: A Global Sequence Feature Based on a Stacked Ensemble Learning Method for Predicting lncRNAs from Transcripts**.<br>
 Shuai Liu, Xiaohan Zhao, Guangyan Zhang, **Weiyang Li**, Feng Liu, Shichao Liu, Wen Zhang<sup>†</sup>.<br>
 [**Genes**](https://www.mdpi.com/journal/genes), 2019. **Impact Factor 2.8, SCI-Q3**.<br>
 \[ [Paper](../assets/PredLnc.pdf) \] \[ [Link](https://www.mdpi.com/2073-4425/10/9/672) \]
 
-# Services
+# 💼 Services
 - Reviewer for international journals and conferences, including ACM Multimedia (MM) 2026, IEEE Wireless Communications Magazine (WCM), Reliability Engineering & System Safety (RESS), IEEE INFOCOM Workshops (DeepWireless 2026), and IEEE GLOBECOM Workshops (ML/DL for Wireless Security).
 
 # 🎖 Honors and Awards
-- *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Outstanding Individual in Chongqing City for Spiritual Civilization Construction (municipal award), First-class Scholarship for Postgraduates.
+- *2023-2024*, National Third Prize in the China Graduate Cybersecurity Innovation Competition, Chongqing Municipal Award for Outstanding Individual in Civic and Cultural Development, First-class Scholarship for Postgraduates.
 
 - *2022-2023*, Top 10 Teaching Assistant (Modern Cryptography course, selected among 10 university-wide), First-class Scholarship for Postgraduates.
 
@@ -99,6 +105,9 @@ Shuai Liu, Xiaohan Zhao, Guangyan Zhang, **Weiyang Li**, Feng Liu, Shichao Liu, 
 - *2019-2020*, Top 10 Class Monitor (selected among 10 university-wide).
 
 
+
+# 🎓 Teaching
+- *2022.09 - 2023.06*, Teaching Assistant, *Modern Cryptography* (undergraduate course), Chongqing University. Selected as one of the university's Top 10 Teaching Assistants.
 
 # 📖 Education
 - *2024.09 - 2028.06 (anticipated)*, PhD, Chongqing University. 
