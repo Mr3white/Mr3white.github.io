@@ -119,10 +119,13 @@
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
       {% if author.blog %}
-        <li><a href="{{ author.blog }}"><img src="/images/blog.png" style="width: 1.3em; padding-right: 0.2em; padding-left: 0.25em;"> Blog</a></li>
+        <li><a href="{{ author.blog }}"><i class="fas fa-fw fa-pen-nib" aria-hidden="true"></i> Blog</a></li>
       {% endif %}
     </ul>
       <div class="author__urls_sm">
+      {% if author.blog %}
+        <a href="{{ author.blog }}"><i class="fas fa-fw fa-pen-nib" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.uri %}
         <a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i></a>
       {% endif %}
